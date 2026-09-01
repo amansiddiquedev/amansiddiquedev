@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **VibeSocial**
-- 🌱 Currently learning **.NET Development**
+- 🌱 Currently learning **.NET Developer**
 - 👯 Looking to collaborate on **Bazarify**
 - 💻 Interested in **Full Stack Development**
 - 🎓 BCA Student
