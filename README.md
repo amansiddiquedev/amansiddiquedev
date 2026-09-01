@@ -1,39 +1,182 @@
 <h1 align="center">Hi 👋, I'm Aman Siddique</h1>
-<h3 align="center">I'm passionate Full Stack Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansiddiquedev&label=Profile%20views&color=0e75b6&style=flat" alt="amansiddiquedev" /> </p>
+<h3 align="center">
+🚀 Full Stack Developer | 💻 BCA Student | 🎨 Building Digital Experiences
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansiddiquedev" alt="amansiddiquedev" /></a> </p>
+<p align="center">
+  <a href="https://github.com/amansiddiquedev">
+    <img src="https://komarev.com/ghpvc/?username=amansiddiquedev&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 
-- 🔭 I’m currently working on [VibeSocial](https://github.com/amansiddiquedev/amansidd0046.github.io.Vibe.App)
+  <img src="https://img.shields.io/github/followers/amansiddiquedev?label=Followers&style=flat&color=blue" />
 
-- 🌱 I’m currently learning **Net Developer**
-
-- 👯 I’m looking to collaborate on [Bazarify](https://github.com/amansiddiquedev/amansidd0046.github.bazarify)
-
-- 👨‍💻 All of my projects are available at [https://github.com/amansiddiquedev/_Portfolio](https://github.com/amansiddiquedev/_Portfolio)
-
-- 💬 Ask me about **Full Stack Developer**
-
-- 📫 How to reach me **amansiddiqui8439@gmail.com**
-
-- ⚡ Fun fact **I am Filmmaker**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amansiddique23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amansiddique23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkdin.com/in/amansiddique23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkdin.com/in/amansiddique23" height="30" width="40" /></a>
-<a href="https://instagram.com/amansid_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amansid_23" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amanfilmsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amanfilmsz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aman0023/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aman0023/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/amansiddique.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/amansiddique.23" height="30" width="40" /></a>
+  <img src="https://img.shields.io/github/stars/amansiddiquedev?label=Stars&style=flat&color=yellow" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansiddiquedev&show_icons=true&locale=en&layout=compact" alt="amansiddiquedev" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansiddiquedev&show_icons=true&locale=en" alt="amansiddiquedev" /></p>
+- 🔭 Currently working on **VibeSocial**
+- 🌱 Currently learning **.NET Development**
+- 👯 Looking to collaborate on **Bazarify**
+- 💻 Interested in **Full Stack Development**
+- 🎓 BCA Student
+- ⚡ Fun fact: **I am also a Filmmaker 🎬**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansiddiquedev&" alt="amansiddiquedev" /></p>
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amansiddiquedev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=amansiddiquedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=amansiddiquedev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansiddiquedev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansiddiquedev&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🔥 Commit & Contribution Statistics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amansiddiquedev&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amansiddiquedev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amansiddiquedev&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Developer Productivity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amansiddiquedev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amansiddiquedev&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/amansiddiquedev/amansidd0046.github.io.Vibe.App">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansiddiquedev&repo=amansidd0046.github.io.Vibe.App&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/amansiddiquedev/amansidd0046.github.bazarify">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansiddiquedev&repo=amansidd0046.github.bazarify&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</p>
+
+---
+
+# 🚀 My Projects
+
+| Project | Description |
+|--------|-------------|
+| 🌐 **VibeSocial** | A modern social platform project |
+| 🛒 **Bazarify** | An innovative marketplace platform |
+| 🖼️ **Pixnora** | Image tools and image processing platform |
+| 🎓 **College Assessment Portal** | Online examination and assessment system |
+
+---
+
+# 💻 Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,python,java,cs,dotnet,mysql,mongodb,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/amansiddiquedev/amansiddiquedev/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://twitter.com/amansiddique23">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://instagram.com/amansid_23">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://youtube.com/c/amanfilmsz">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
+<a href="https://linkedin.com/in/amansiddique23">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile!
+</h3>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amansiddiquedev&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
