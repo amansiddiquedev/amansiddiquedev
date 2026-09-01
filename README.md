@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Siddique</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 💻 BCA Student | 🎨 Building Digital Experiences
+🚀 Full Stack Developer | 💻 BCA Student | 🌐 Building Modern Web Applications
 </h3>
 
 <p align="center">
